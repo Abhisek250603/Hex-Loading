@@ -1,1 +1,1 @@
-This is a cool hexagonal loading animation. 
+This is a cool cubical loading animation. 
